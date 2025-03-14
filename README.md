@@ -1,3 +1,3 @@
 # CCADMACL_PROJECT_COM222
 
-DRAFT: https://docs.google.com/document/d/1Hn7fEVStEcg-6DNmvPyLtYP6uoRN0TUS5T9JyRTtE6A/edit?usp=sharing
+Clustering Filipino Households based on 2018 Family Income and Expenditure Survey (FIES) for data-driven insights on socio-economic disparities
